@@ -1,0 +1,17 @@
+{
+  "userSuccess": {
+      "username": "bhirosse",
+      "password": "9572109"
+  },
+  "userFailure": {
+      "username": "test",
+      "password": "test"
+  },
+
+  "signUpUser": {
+      "firstName": "Bruna",
+      "lastName": "Albino",
+      "confirmPassword": "9572109"
+  }
+
+}
